@@ -1,0 +1,142 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/calibrationresult.cpp
+calibrationresult.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/calibrationresult.h
+iostream
+-
+exception.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/exception.h
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/calibrationresult.h
+opencv2/opencv.hpp
+-
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/census-inl.h
+exception.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/exception.h
+census.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/census.h
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/census.cpp
+census-inl.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/census-inl.h
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/census.h
+opencv2/opencv.hpp
+-
+simd.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/simd.h
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/exception.h
+exception
+-
+string
+-
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/extendedfast.cpp
+iostream
+-
+iomanip
+-
+extendedfast.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/extendedfast.h
+fast9-inl.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/fast9-inl.h
+exception.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/exception.h
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/extendedfast.h
+opencv2/opencv.hpp
+-
+vector
+-
+cmath
+-
+simd.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/simd.h
+fast9.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/fast9.h
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/fast9-inl.h
+fast9.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/fast9.h
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/fast9.h
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/hammingdistance.cpp
+hammingdistance.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/hammingdistance.h
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/hammingdistance.h
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/imageconversion.cpp
+imageconversion.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/imageconversion.h
+simd.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/simd.h
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/imageconversion.h
+opencv2/opencv.hpp
+-
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/simd.cpp
+simd.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/simd.h
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/simd.h
+boost/smart_ptr.hpp
+-
+boost/bind.hpp
+-
+sys/types.h
+-
+pmmintrin.h
+-
+tmmintrin.h
+-
+smmintrin.h
+-
+nmmintrin.h
+-
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/sparserectification.cpp
+sparserectification.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/sparserectification.h
+stereorectification.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/stereorectification.h
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/sparserectification.h
+vector
+-
+opencv2/opencv.hpp
+-
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/stereorectification.cpp
+stereorectification.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/stereorectification.h
+cstring
+-
+climits
+-
+
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/stereorectification.h
+utility
+-
+vector
+-
+cassert
+-
+opencv2/opencv.hpp
+-
+boost/smart_ptr.hpp
+-
+calibrationresult.h
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/src/sparsestereo/calibrationresult.h
+

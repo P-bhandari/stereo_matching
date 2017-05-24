@@ -1,0 +1,2 @@
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/build/src/example/CMakeFiles/example.dir
+/media/piyush/New Volume/piyush/consortium/iitp/6th sem/NTU INTERNSHIP/PiyushBhandari_Codes/CodeforKITTI/build/src/sparsestereo/CMakeFiles/sparsestereo.dir

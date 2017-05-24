@@ -1,0 +1,2 @@
+/home/piyush/Downloads/CodeforMiddlebury/StereoCode/build/src/example/CMakeFiles/example.dir
+/home/piyush/Downloads/CodeforMiddlebury/StereoCode/build/src/sparsestereo/CMakeFiles/sparsestereo.dir

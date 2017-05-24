@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../lib/libsparsestereo.a  CMakeFiles/sparsestereo.dir/calibrationresult.o CMakeFiles/sparsestereo.dir/extendedfast.o CMakeFiles/sparsestereo.dir/hammingdistance.o CMakeFiles/sparsestereo.dir/simd.o CMakeFiles/sparsestereo.dir/sparserectification.o CMakeFiles/sparsestereo.dir/stereorectification.o CMakeFiles/sparsestereo.dir/imageconversion.o CMakeFiles/sparsestereo.dir/census.o
+/usr/bin/ranlib ../../../lib/libsparsestereo.a
